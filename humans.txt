@@ -3,7 +3,7 @@
 
 # TEAM
 
-    <name> -- <role> -- <twitter>
+    <name> Anshul1 Thakur2 <twitter>
 
 # THANKS
 
