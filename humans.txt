@@ -3,7 +3,9 @@
 
 # TEAM
 
-    <name> Anshul1 Thakur2 <twitter>
+    Anshul1 Thakur2
+    uvishal93@gmail.com
+    linux aws
 
 # THANKS
 
