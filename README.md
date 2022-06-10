@@ -12,6 +12,9 @@ OK This is the best and one of the training course
 
 Sample website with plenty of files for demos
 
+##GIT Contrubution
+Fork the repo and pull the request
+
 ## GIT Comparison
 
 Adding git comparison lectures
