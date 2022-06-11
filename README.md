@@ -8,6 +8,8 @@ A lot of lectures are already submitted
 ## GIT & GITHub Training
 OK This is the best and one of the training course
 
+Adding lectures of GIT Advance for students
+
 ## Purpose
 
 Sample website with plenty of files for demos
