@@ -8,7 +8,8 @@ A lot of lectures are already submitted
 ## GIT & GITHub Training
 OK This is the best and one of the training course
 
-Adding lectures of GIT Advance for students
+Adding lectures of GIT Advance for students.
+We have done so much of work together
 
 ## Purpose
 
