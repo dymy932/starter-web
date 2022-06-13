@@ -2,6 +2,7 @@
 # The humans responsible & technology colophon
 
 Hi, Going to insert conflicts in my features
+Hi, I am modefing file before rebase.
 
 # TEAM
 
