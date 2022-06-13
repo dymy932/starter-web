@@ -24,3 +24,4 @@ Fork the repo and pull the request
 Adding git comparison lectures
 ## GIT Hub Content
 Comparison with REPO
+Adding new lectures of git stash.
