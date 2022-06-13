@@ -3,7 +3,8 @@
 This repository is for showing how Git and GitHub work
 
 ## Introduction
-A lot of lectures are already submitted
+A lot of lectures are already submitted.
+And lot of lectures still coming in.
 
 ## GIT & GITHub Training
 OK This is the best and one of the training course
