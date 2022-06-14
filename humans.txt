@@ -24,3 +24,4 @@ Adding important notes on GIT Stash
     jQuery, Modernizr, MYSQL,
 	Machine lerning, AI,
 	Data Science
+	AWS Solution Architecht
