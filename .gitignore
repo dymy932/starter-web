@@ -1,2 +1,2 @@
 testxfile.txt
-*.log
+#*.log
